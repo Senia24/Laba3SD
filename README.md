@@ -41,3 +41,7 @@ try:
 except ValueError:
     print("Ошибка: введите целое число k.")
 print("Автор: Кочаров Арсений Андреевич, группа: 090301-ПОВа-о25")
+
+```
+## Результат выполнения программы:
+<img width="803" height="464" alt="image" src="https://github.com/user-attachments/assets/a85947ba-7d3f-4ff9-b392-217693505bf2" />
