@@ -1,4 +1,4 @@
-# Лабораторная работа №3: Структура данных
+# Лабораторная работа №3: Структуры данных
 ## Задание: 
 <img width="1265" height="181" alt="image" src="https://github.com/user-attachments/assets/2cf48ecc-af8f-42e8-9600-1eb2528c8d59" />
 
